@@ -9,7 +9,7 @@ It helps a lot.
 I am a passionate self-learner and a web development & ML enthusiast. I love exploring and building projects 👨‍💻 using various technologies.
 
 <a href="https://github.com/PurposeKnight">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PurposeKnight&show_icons=true&theme=tokyonight" width="350"/>
+
 </a>
 
 * 🔭 Currently working on improving my **portfolio and development projects**
@@ -107,35 +107,19 @@ Web app to track job applications and company statuses.
 
 ## 📊 GitHub Metrics
 
-<table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PurposeKnight&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurposeKnight&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 
-<tr>
-<td>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PurposeKnight&theme=tokyonight&hide_border=true">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PurposeKnight&show_icons=true&theme=tokyonight">
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurposeKnight&layout=compact&theme=tokyonight">
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=PurposeKnight&theme=tokyonight&no-frame=true&row=1">
-
-</td>
-</tr>
-
-</table>
-
-<hr>
-
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=PurposeKnight&theme=tokyonight&no-frame=true&row=1&column=6">
+</p>
+>
 
 ### Show some ❤️ by starring ⭐ some of my repositories!
 
