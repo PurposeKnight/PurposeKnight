@@ -1,126 +1,115 @@
-<!---
-Please consider starring the repo if you find this useful.
-It helps a lot.
--->
+# Hi 👋 I'm Pranay Shah
 
-# Hi, I am <a href="https://www.linkedin.com/in/pranay-shah-074767341">Pranay Shah</a>. Nice to see you here 👋
+![Profile Views](https://komarev.com/ghpvc/?username=PurposeKnight\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)
 
-<b>A Computer Science undergraduate pursuing B.Tech in Computer Science.</b><br>
-I am a passionate self-learner and a web development & ML enthusiast. I love exploring and building projects 👨‍💻 using various technologies.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=900\&lines=CSE+Undergraduate;Web+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Technologies)
 
-<a href="https://github.com/PurposeKnight">
+---
 
-</a>
+## 🚀 About Me
 
-* 🔭 Currently working on improving my **portfolio and development projects**
-* 🌱 Learning **Machine Learning, Full-Stack Development, and Problem Solving**
-* 🧠 Practicing coding and algorithms to strengthen my **DSA skills**
-* 👯 Open to collaboration with **developers and tech enthusiasts**
-* 🚀 Keen on building projects that solve **real-world problems**
+🎓 CSE Undergraduate
+💻 Interested in **Web Development, Machine Learning & Problem Solving**
+🌱 Currently learning **Advanced Web Development & ML**
+⚡ Building projects and improving coding skills every day
 
-<hr>
+---
 
-## 📩 Connect with me
+## ⚡ Tech Stack
 
-Don't hesitate to ping me 🤝. If you are interested in discussing ideas or collaboration, I'm always open to a conversation!
+### 💻 Programming Languages
 
-<a href="mailto:pranay.vshah06@gmail.comcom"><b>Email Me</b></a>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-<br><br>
+### 🌐 Web Development
 
-<a href="https://github.com/PurposeKnight">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="38">
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
-<a href="https://www.linkedin.com/in/pranay-shah-074767341">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="38">
-</a>
+### 🧠 Machine Learning & Data
 
-<hr>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
 
-## ⚡ Languages, Tools and Technologies
+### 🗄 Databases
 
-<table>
-<tr>
-<td><strong>Frontend</strong></td>
-<td><strong>Backend</strong></td>
-<td><strong>Databases</strong></td>
-<td><strong>Tools</strong></td>
-</tr>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-<tr>
+### ⚙ Backend & Tools
 
-<td>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" >
-</td>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
-<td>
-<img src="https://skillicons.dev/icons?i=nodejs" >
-</td>
+### 📊 Visualization
 
-<td>
-<img src="https://skillicons.dev/icons?i=mongodb" >
-</td>
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
 
-<td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" >
-</td>
+### 🛠 Other Tools
 
-</tr>
-</table>
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva)
 
-<table>
-<tr>
-<td><strong>Programming Languages</strong></td>
-<td><strong>Currently Learning</strong></td>
-</tr>
 
-<tr>
+---
 
-<td>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js">
-</td>
+# 📊 GitHub Stats
 
-<td>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb">
-</td>
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurposeKnight\&show_icons=true\&theme=tokyonight)
 
-</tr>
-</table>
+---
 
-<hr>
+# 🔥 GitHub Streak
 
-## 📂 Featured Projects
+![GitHub Streak](https://streak-stats.demolab.com/?user=PurposeKnight\&theme=tokyonight)
 
-### 🔹 PES University Lost & Found Portal
+---
 
-Campus-based platform to report and find lost items inside the university.
-Tech: **HTML, CSS, JavaScript, React, Node.js**
 
-### 🔹 Placement Job Tracker
+---
 
-Web app to track job applications and company statuses.
+# 📂 Projects
 
-🚀 More projects coming soon!
+### 🔹 The Vague Health Correlator
 
-<hr>
 
-## 📊 GitHub Metrics
+**Tech:** HTML, VanillaCSS, JavaScript, React, Node.js,ML
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PurposeKnight&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurposeKnight&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+### 🔹 Sign Bridge
+Sign Language to Sentence Translator
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PurposeKnight&theme=tokyonight&hide_border=true">
-</p>
+**Tech:** MediaPipe Hands, JavaScript, HTML, CSS
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PurposeKnight&theme=tokyonight&no-frame=true&row=1&column=6">
-</p>
->
+### 🔹Developer Collaboration Platform
 
-### Show some ❤️ by starring ⭐ some of my repositories!
+A Tinder-style swiping app for developers to find partners for hackathons or side projects.
+**Tech:** React, NodeJS, MongoDB, TailwindCSS
 
-</div>
+### 🔹Resume Analyzer
+**Tech:** Python, NLP, Pandas, HTML, CSS
+
+🚀 More projects coming soon...
+
+---
+
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-PurposeKnight-black?style=for-the-badge\&logo=github)](https://github.com/PurposeKnight)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranay%20Shah-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/pranay-shah-074767341)
+
+---
+
+⭐ From [PurposeKnight](https://github.com/PurposeKnight)
