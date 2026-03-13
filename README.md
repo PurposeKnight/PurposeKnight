@@ -98,7 +98,7 @@ A Tinder-style swiping app for developers to find partners for hackathons or sid
 **Tech:** React, NodeJS, MongoDB, TailwindCSS
 
 ### 🔹Resume Analyzer
-**Tech:** Python, NLP, Pandas, HTML, CSS
+**Tech:** React, HTML, CSS (Trying to integrate ML)
 
 🚀 More projects coming soon...
 
